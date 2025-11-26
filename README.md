@@ -1,10 +1,12 @@
 # RP2040 FreeRTOS Template
 
+[![Visitors](https://komarev.com/ghpvc/?username=ArvoreDosSaberes&repo=rp2040_freertos_template&color=blue&style=flat)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template)
 [![Build](https://img.shields.io/github/actions/workflow/status/ArvoreDosSaberes/rp2040_freertos_template/ci.yml?branch=main)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/actions)
 [![Issues](https://img.shields.io/github/issues/ArvoreDosSaberes/rp2040_freertos_template)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/issues)
 [![Stars](https://img.shields.io/github/stars/ArvoreDosSaberes/rp2040_freertos_template)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/stargazers)
 [![Forks](https://img.shields.io/github/forks/ArvoreDosSaberes/rp2040_freertos_template)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/network/members)
-[![Visitors](https://komarev.com/ghpvc/?username=ArvoreDosSaberes&repo=rp2040_freertos_template&color=blue&style=flat)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template)
+[![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-brightgreen.svg)]()
+[![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-9cf.svg)](https://www.freertos.org/)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
@@ -13,6 +15,8 @@
 ## Visão geral
 
 Este projeto é um **template para firmware com FreeRTOS no RP2040 (Pico/Pico W)**, preparado para ser renomeado e reutilizado como base de novos firmwares.
+
+Autor do template: **Carlos Delfino** `<consultoria@carlosdelfino.eti.br>`.
 
 O arquivo principal de aplicação é:
 
