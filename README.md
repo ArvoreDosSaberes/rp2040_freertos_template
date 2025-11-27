@@ -1,6 +1,6 @@
 # RP2040 FreeRTOS Template
 
-[![Visitors](https://komarev.com/ghpvc/?username=ArvoreDosSaberes&repo=rp2040_freertos_template&color=blue&style=flat)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.RP2040_FreeRTOS_Template)
 [![Build](https://img.shields.io/github/actions/workflow/status/ArvoreDosSaberes/rp2040_freertos_template/ci.yml?branch=main)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/actions)
 [![Issues](https://img.shields.io/github/issues/ArvoreDosSaberes/rp2040_freertos_template)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/issues)
 [![Stars](https://img.shields.io/github/stars/ArvoreDosSaberes/rp2040_freertos_template)](https://github.com/ArvoreDosSaberes/rp2040_freertos_template/stargazers)
